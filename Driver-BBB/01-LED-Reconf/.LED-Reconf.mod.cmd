@@ -1,0 +1,1 @@
+cmd_/home/duc/workspace/Driver-BBB/01-LED-Reconf/LED-Reconf.mod := { echo  /home/duc/workspace/Driver-BBB/01-LED-Reconf/LED-Reconf.o;  echo; } > /home/duc/workspace/Driver-BBB/01-LED-Reconf/LED-Reconf.mod

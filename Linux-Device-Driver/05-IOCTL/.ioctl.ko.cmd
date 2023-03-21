@@ -1,0 +1,1 @@
+cmd_/home/duc/workspace/Linux-Device-Driver/05-IOCTL/ioctl.ko := ld -r -m elf_x86_64 -z max-page-size=0x200000 -T ./scripts/module-common.lds --build-id  -o /home/duc/workspace/Linux-Device-Driver/05-IOCTL/ioctl.ko /home/duc/workspace/Linux-Device-Driver/05-IOCTL/ioctl.o /home/duc/workspace/Linux-Device-Driver/05-IOCTL/ioctl.mod.o ;  true

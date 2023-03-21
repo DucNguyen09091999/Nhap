@@ -1,0 +1,1 @@
+cmd_/home/duc/workspace/Linux-Device-Driver/08-sysfs/sysfs.ko := ld -r -m elf_x86_64 -z max-page-size=0x200000 -T ./scripts/module-common.lds --build-id  -o /home/duc/workspace/Linux-Device-Driver/08-sysfs/sysfs.ko /home/duc/workspace/Linux-Device-Driver/08-sysfs/sysfs.o /home/duc/workspace/Linux-Device-Driver/08-sysfs/sysfs.mod.o ;  true
